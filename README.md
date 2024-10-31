@@ -34,3 +34,8 @@ Usage in svelte files:
 <input bind:value={poem.state} />
 <button onclick={handleClick}>Clear Poem</button>
 ```
+
+TODO:
+
+- Add local-storage stores
+- Add better derived stores
