@@ -8,7 +8,7 @@ const reader = <T>(value: T) => {
 	};
 };
 
-const sappho = <T>(value: T) => {
+const writer = <T>(value: T) => {
 	let state = $state(value);
 
 	return {
@@ -21,4 +21,4 @@ const sappho = <T>(value: T) => {
 	};
 };
 
-export { reader, sappho, sappho as writer };
+export { reader, writer };
