@@ -1,3 +1,16 @@
+# v0.0.8 (Thu Oct 31 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Packaging Changes ([@oliver-isaac](https://github.com/oliver-isaac))
+- Move to single file + Svelte.ts ([@oliver-isaac](https://github.com/oliver-isaac))
+
+#### Authors: 1
+
+- Oliver Isaac ([@oliver-isaac](https://github.com/oliver-isaac))
+
+---
+
 # v0.0.7 (Thu Oct 31 2024)
 
 #### ⚠️ Pushed to `main`
