@@ -1,17 +1,22 @@
 {
 	"name": "sappho",
+	"description": "📃 Flexible global rune-based state management for Svelte 5+",
 	"version": "0.0.1",
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build && npm run package",
 		"preview": "vite preview",
-		"package": "svelte-kit sync && svelte-package && publint",
-		"prepublishOnly": "npm run package",
+		"package": "svelte-kit sync && svelte-package && publint && auto shipit",
+		"prepublishOnly": "svelte-kit sync && svelte-package && publint",
+		"release": "bun run prepublishOnly && bun auto shipit",
 		"check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
 		"check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch",
 		"format": "prettier --write .",
 		"lint": "prettier --check . && eslint ."
 	},
+	"author": "Oliver Isaac",
+	"license": "MIT",
+	"homepage": "https://github.com/oliver-isaac/sappho",
 	"files": [
 		"dist",
 		"!dist/**/*.test.*",
