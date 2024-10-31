@@ -1,2 +1,2 @@
-export { sappho as default } from './sappho.ts';
-export { reader } from './reader.ts';
+export { sappho as default } from './sappho.svelte.ts';
+export { reader } from './reader.svelte.ts';
