@@ -31,7 +31,18 @@
 	"exports": {
 		".": {
 			"types": "./dist/index.d.ts",
-			"svelte": "./dist/index.js"
+			"svelte": "./dist/index.js",
+			"default": "./dist/index.js"
+		},
+		"./sappho.svelte.ts": {
+			"types": "./dist/sappho.svelte.d.ts",
+			"svelte": "./dist/sappho.svelte.js",
+			"default": "./dist/sappho.svelte.js"
+		},
+		"./reader.svelte.ts": {
+			"types": "./dist/reader.svelte.d.ts",
+			"svelte": "./dist/reader.svelte.js",
+			"default": "./dist/reader.svelte.js"
 		}
 	},
 	"peerDependencies": {
