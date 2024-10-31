@@ -1,3 +1,17 @@
+# v0.0.9 (Thu Oct 31 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Update Readme.md ([@oliver-isaac](https://github.com/oliver-isaac))
+- Merge branch 'main' of https://github.com/oliver-isaac/sappho ([@oliver-isaac](https://github.com/oliver-isaac))
+- Update Package ([@oliver-isaac](https://github.com/oliver-isaac))
+
+#### Authors: 1
+
+- Oliver Isaac ([@oliver-isaac](https://github.com/oliver-isaac))
+
+---
+
 # v0.0.8 (Thu Oct 31 2024)
 
 #### ⚠️ Pushed to `main`
