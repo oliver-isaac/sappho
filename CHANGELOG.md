@@ -1,3 +1,15 @@
+# v0.0.5 (Thu Oct 31 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Add Writer ([@oliver-isaac](https://github.com/oliver-isaac))
+
+#### Authors: 1
+
+- Oliver Isaac ([@oliver-isaac](https://github.com/oliver-isaac))
+
+---
+
 # v0.0.4 (Thu Oct 31 2024)
 
 #### ⚠️ Pushed to `main`
