@@ -1,3 +1,15 @@
+# v0.0.7 (Thu Oct 31 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Move to single file ([@oliver-isaac](https://github.com/oliver-isaac))
+
+#### Authors: 1
+
+- Oliver Isaac ([@oliver-isaac](https://github.com/oliver-isaac))
+
+---
+
 # v0.0.6 (Thu Oct 31 2024)
 
 #### ⚠️ Pushed to `main`
