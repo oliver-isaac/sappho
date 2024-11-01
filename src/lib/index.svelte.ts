@@ -21,12 +21,8 @@ const writer = <T>(value: T) => {
 	};
 };
 
-type Store<S> = {
-	get: () => S;
-};
-
-const deriver = <T, S>(stores: Store<S>[], deriveFn: (...values: S[]) => T) => {
-	const derivedState = $derived.by(() => deriveFn(...stores.map((store) => store.get())));
+const deriver = <T, S>(stores: { state: S }[], deriveFn: (...values: S[]) => T) => {
+	const derivedState = $derived.by(() => deriveFn(...stores.map((store) => store.state)));
 
 	return {
 		get state() {
