@@ -1,3 +1,15 @@
+# v0.0.13 (Mon Nov 04 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Remove Pages ([@oliver-isaac](https://github.com/oliver-isaac))
+
+#### Authors: 1
+
+- Oliver Isaac ([@oliver-isaac](https://github.com/oliver-isaac))
+
+---
+
 # v0.0.12 (Fri Nov 01 2024)
 
 #### ⚠️ Pushed to `main`
